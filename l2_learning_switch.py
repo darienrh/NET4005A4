@@ -5,7 +5,6 @@ from pox.lib.addresses import EthAddr
 
 log = core.getLogger()
 
-# REQUIRED MACS (lowercase!)
 H2_MAC = EthAddr("d3:13:1c:1b:76:a0")
 H6_MAC = EthAddr("b9:94:91:62:f1:65")
 
